@@ -26,3 +26,4 @@ where = ["."]
 
 [tool.setuptools]
 include-package-data = true
+py-modules = ["seed_vc_wrapper", "hf_utils", "optimizers"]
